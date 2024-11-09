@@ -1,10 +1,10 @@
 [package]
-name = 'calculator_l05'
+name = 'calculator_90'
 version = '1.0.0'
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "testnet" }
 
 [addresses]
-metaschool = "<Enter-your-wallet-address-here>"
+metaschool = "01e2add6baec921f4792843a4d8ca4e4ebbf2ff0a8fe693d92f3bbaa85afa007"
 std = "0x1"
